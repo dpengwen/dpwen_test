@@ -15,7 +15,11 @@ $git add README #(adding the file to be loaded)
 $git commit -m "first commit"
 $git push origin master (git push)
 
-
+6 update
+$ git add *
+$ git commit -m 'commit statment'
+$ git pull
+$ git push
 
 
 
