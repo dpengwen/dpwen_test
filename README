@@ -1,1 +1,21 @@
-i here waiting for you
+#### local -> github #####
+1. init repository
+$ git init
+2. look status
+$ git status
+3. setting
+$ git config --global user.name 'dpengwen'
+$ git config --global user.email dpengwen@gmail.com
+
+4. cd the repository to be uploaded, and adding the remote address
+$ git remote add origin git@github.com:yourUsrName/yourRepo.git
+
+5. submit and upload
+$git add README #(adding the file to be loaded)
+$git commit -m "first commit"
+$git push origin master (git push)
+
+
+
+
+
